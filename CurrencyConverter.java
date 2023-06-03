@@ -83,7 +83,7 @@ public class CurrencyConverter extends JFrame {
         conversionRates.put("GBP", 0.72);
         conversionRates.put("JPY", 109.36);
         conversionRates.put("CAD", 1.21);
-        conversionRates.put("INR", 74.57);
+        conversionRates.put("INR", 82.37);
 
     }
 
